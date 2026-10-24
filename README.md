@@ -37,3 +37,7 @@ Run the Python file:
 
 python linear_regression.py
 
+## Regression Plot
+
+![Actual Marks and Regression Line](regression_plot.png)
+
